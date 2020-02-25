@@ -1,0 +1,85 @@
+  .mother-two{
+    background-color: rgb(216, 211, 211);
+    height: 600px;
+
+
+  }
+  .content-text{
+    float: left;
+    margin: 200px 100px 100px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:500px;
+    
+  }
+  .content-form{
+    float: right;
+    height:450px;
+    width:350px;
+    margin-top:50px;
+    margin-left: 20px;
+    margin-right: 50px;
+    border: 2px solid rgb(252, 250, 250);
+    padding: 20px;
+    background: white;
+  }
+  .input{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid blue;
+  }
+  .header{ 
+    background-color: white;
+    color: rgb(108, 34, 177);
+  }
+    .link{
+    float: right;
+    text-align: center;
+  }
+
+    .clear{
+    clear: both;
+  }
+    .form-footer{
+    /* margin-right: 60px; */
+  }
+
+    .button{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 260px;
+    border-radius: 70px;
+  }
+   
+   .create{
+    background-color: white;
+    border-radius: 50%;
+    color: rgb(51, 51, 177);
+    border-color: rgb(51, 51, 238);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 260px;
+    border-radius: 70px;
+  }
+
+  .checklist{
+      color:blue;
+
+  }
+  .heading{
+      color: blue;
+  }
+
